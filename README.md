@@ -49,9 +49,9 @@ install.packages(c("shiny", "ggplot2"))
 
 1.  **use the R Shinyapps.io link:**
 
-    ```bash
-    https://transition-probability-matrix.shinyapps.io/CPPSimulation/
-    ```
+```bash
+https://transition-probability-matrix.shinyapps.io/CPPSimulation/
+```
 -----
 
 ## ⚙️ Application Features
@@ -87,10 +87,6 @@ The application logic is contained within `app.R` and includes:
 
 ## 🖋️ Author
 
-[Likhith G Muthyalu]
+Likhith G Muthyalu
 
------
 
-## ⚖️ License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
